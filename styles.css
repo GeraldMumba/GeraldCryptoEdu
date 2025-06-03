@@ -1,0 +1,13 @@
+
+/* styles.css */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+.card:hover {
+  transform: scale(1.03);
+}
